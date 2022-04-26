@@ -1,16 +1,7 @@
-# LA-CITE-JUDICIAIRE
+# ***LA-CITE-JUDICIAIRE***
 
-<details><summary>About</summary>
-<p>
 
-* **Groupe** : Daniel, Ali, David et Eliary
-* **Classe** : 2TCSTRF
-* **Matière** : EDUCI 4
-  
-</p>
-</details>  
-
-#  Introduction : 
+Introduction : 
 * Liberté : Protection de la vie privée.  
 
 # PHOTO :
@@ -23,3 +14,13 @@
 * La cité judiciaire est un endroit très bien situé. Il y’a beaucoup de visiteurs et touristes.
 * Au sommet de la hiérarchie des juridictions de l'ordre judiciaire se trouve la Cour supérieure de justice qui comprend la Cour d'appel, ainsi qu'un Parquet général.
 * La Cour d'appel comprend dix chambres qui siègent au nombre de trois conseillers. Elle connaît des affaires civiles, commerciales, criminelles et correctionnelles, ainsi que des affaires jugées par les tribunaux du travail dans les deux arrondissements judiciaires du pays.
+
+<details><summary>About</summary>
+<p>
+
+* **Groupe** : Daniel, Ali, David et Eliary
+* **Classe** : 2TCSTRF
+* **Matière** : EDUCI 4
+  
+</p>
+</details>  
